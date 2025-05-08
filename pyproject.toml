@@ -6,4 +6,8 @@ build-backend = "flit_core.buildapi"
 name = "mypackage"
 version = "0.1.0"
 license = {file = "LICENSE.txt"}
-description = "My first package"
+description = "My first package Tutoral EMPA"
+
+dependencies = [
+  "numpy",
+]
